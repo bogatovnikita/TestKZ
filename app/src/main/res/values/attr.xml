@@ -5,4 +5,10 @@
         <attr name="custom_text_description" format="string" />
         <attr name="custom_color" format="color" />
     </declare-styleable>
+
+    <declare-styleable name="RainbowView">
+        <attr name="rainbow_color" format="reference" />
+        <attr name="rainbow_stroke_width" format="float" />
+    </declare-styleable>
+
 </resources>
